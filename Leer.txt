@@ -1,0 +1,16 @@
+Pasos para poder abrir Wikiprofes 2.0 en su computadora:
+
+-Descargar Python version 3.9.5 o versiones posteriores.
+-Descargar Django version 3.2.9 o versiones posteriores.
+-Ejecutar el siguiente comando en el cmd:
+	pip install django-crispy-forms
+
+Para ejecutar el programa en su computadora debera:
+-Situarse en donde se encuentre la carpeta de \Wikiprofes en el cmd
+-Ejecutar el siguiente comando:
+	python manage.py runserver
+-Abrir el servidor en internet con la siguiente direccion:
+	http://127.0.0.1:8000/
+
+Si realizo todo correctamente, debera poder visualizar la pagina web
+de Wikiprofes 2.0 sin problemas! :)
